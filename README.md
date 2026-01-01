@@ -97,10 +97,4 @@ POST /services/apexrest/erp/customers
   "name": "Test Pharma Ltd",
   "country": "Germany"
 }
- ----
-###
 
-Developed by  
-Vikrant Kumar Gupta  
-Senior Salesforce Engineer  
-Healthcare & Enterprise Integrations
