@@ -78,7 +78,14 @@ All object and field mappings are driven by **Custom Metadata**, allowing config
 - Custom Metadata  
 - JSON  
 
----
+ ---
+###
+
+Developed by  
+Vikrant Kumar Gupta  
+Senior Salesforce Engineer  
+Healthcare & Enterprise Integrations
+
 
 ## Sample ERP Payload
 
